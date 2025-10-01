@@ -21,11 +21,15 @@ flutter-login-ui/
 │ └─ login_screen_2.png
 ├─ pubspec.yaml
 └─ README.md
+--
 ## 🖼 Screenshots
+<p align="center">
 <img src="images/login_page.jpg" width="250" />
 <img src="images/@_error.jpg" width="250" />
 <img src="images/pass_error.jpg" width="250" />
 <img src="images/login_successful.jpg" width="250" />
+</p>
+--
 
 
 
