@@ -1,16 +1,29 @@
-# flutter_login_ui
+# Flutter Login UI
 
-A new Flutter project.
+A simple **Flutter login screen** with validation.  
+- Email must include `@`.  
+- Password must be at least 6 characters.  
+- Validation errors are shown using SnackBar.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📁 Folder Structure
 
-A few resources to get you started if this is your first Flutter project:
+flutter-login-ui/
+├─ lib/
+│ ├─ logic/
+│ │ └─ login_logic.dart
+│ ├─ widget/
+│ │ └─ text_field_widget.dart
+│ └─ login_screen.dart
+├─ images/
+│ ├─ login_screen_1.png
+│ └─ login_screen_2.png
+├─ pubspec.yaml
+└─ README.md
+## ⚙️ Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the repository**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone <your-repo-link>
