@@ -40,5 +40,19 @@ flutter-login-ui:
 
 ```bash
 git clone < https://github.com/daspranay918/flutter-login-ui >
+Run instructioms:-
+
+# Clone the repository
+git clone <your-repo-link>
+
+# Navigate to project folder
+cd flutter-login-ui
+
+# Install Flutter dependencies
+flutter pub get
+
+# Run the app on default device/emulator
+flutter run
+
 
 
