@@ -21,9 +21,15 @@ flutter-login-ui/
 │ └─ login_screen_2.png
 ├─ pubspec.yaml
 └─ README.md
+## 🖼 Screenshots
+
+
+
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-link>
+git clone < https://github.com/daspranay918/flutter-login-ui >
+
+
