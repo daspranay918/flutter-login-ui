@@ -9,18 +9,19 @@ A simple **Flutter login screen** with validation.
 
 ## 📁 Folder Structure
 
-flutter-login-ui/
-├─ lib/
-│ ├─ logic/
-│ │ └─ login_logic.dart
-│ ├─ widget/
-│ │ └─ text_field_widget.dart
-│ └─ login_screen.dart
-├─ images/
-│ ├─ login_screen_1.png
-│ └─ login_screen_2.png
-├─ pubspec.yaml
-└─ README.md
+flutter-login-ui:
+  lib:
+    logic:
+      - login_logic.dart
+    widget:
+      - text_field_widget.dart
+    - login_screen.dart
+  images:
+    - login_screen_1.png
+    - login_screen_2.png
+  - pubspec.yaml
+  - README.md
+
 --
 ## 🖼 Screenshots
 <p align="center">
